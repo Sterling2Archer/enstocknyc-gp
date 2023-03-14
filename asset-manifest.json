@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/enstocknyc-gp/static/css/main.ed1b65ff.css",
-    "main.js": "/enstocknyc-gp/static/js/main.9739f52e.js",
+    "main.css": "/enstocknyc-gp/static/css/main.e8ed286d.css",
+    "main.js": "/enstocknyc-gp/static/js/main.b5dfc420.js",
     "static/media/ES-J2-23_3_2000x20003.jpg": "/enstocknyc-gp/static/media/ES-J2-23_3_2000x20003.5a69525591cb67fbcc9c.jpg",
     "static/media/ES-J3_1500x6003.jpg": "/enstocknyc-gp/static/media/ES-J3_1500x6003.0abfc1c10f25b6c58b82.jpg",
     "static/media/ES-J2_1500x600-12.png": "/enstocknyc-gp/static/media/ES-J2_1500x600-12.10e290e5c9e5e8cbc538.png",
@@ -11,11 +11,11 @@
     "static/media/contactus.jpg": "/enstocknyc-gp/static/media/contactus.84db792425548191056c.jpg",
     "static/media/peacechain-done2_3_110x120.png": "/enstocknyc-gp/static/media/peacechain-done2_3_110x120.072e995c8f551564d95f.png",
     "index.html": "/enstocknyc-gp/index.html",
-    "main.ed1b65ff.css.map": "/enstocknyc-gp/static/css/main.ed1b65ff.css.map",
-    "main.9739f52e.js.map": "/enstocknyc-gp/static/js/main.9739f52e.js.map"
+    "main.e8ed286d.css.map": "/enstocknyc-gp/static/css/main.e8ed286d.css.map",
+    "main.b5dfc420.js.map": "/enstocknyc-gp/static/js/main.b5dfc420.js.map"
   },
   "entrypoints": [
-    "static/css/main.ed1b65ff.css",
-    "static/js/main.9739f52e.js"
+    "static/css/main.e8ed286d.css",
+    "static/js/main.b5dfc420.js"
   ]
 }
